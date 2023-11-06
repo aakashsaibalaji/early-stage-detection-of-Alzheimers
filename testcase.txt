@@ -1,0 +1,18 @@
+female	16	79.14579	1	1	1	1	1	AD Dementia
+female	21	79.14579	0.5	0.5	0.5	0.5	0.5	AD Dementia
+male	20	68.07666	1	1	1	1	1	AD Dementia
+female	28	68.07666	1	1	1	1	1	AD Dementia
+male	24	72.43258	0.5	1	0.5	1	1	uncertain dementia
+male	27	72.43258	0.5	0.5	0.5	0.5	0.5	uncertain dementia
+male	29	72.43258	0.5	0.5	0.5	0.5	0.5	uncertain dementia
+male	29	72.43258	0.5	0.5	0.5	0.5	0.5	uncertain dementia
+female	26	80.731		0.5	0.5	0.5	0.5	0.5	AD dementia
+female	26	80.731		0.5	0.5	0.5	0.5	0.5	AD dementia
+female	29	54.42		0	0	0	0	0	No dementia
+female	29	54.42		0	0	0	0	0	No dementia
+female	30	54.42		0	0	0	0	0	No dementia
+female	30	54.42		0	0	0	0	0	No dementia
+female	29	54.42		0	0	0	0	0	No dementia
+female	30	54.42		0	0	0	0	0	No dementia
+
+

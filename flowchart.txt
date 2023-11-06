@@ -1,0 +1,38 @@
+1. Importing the packages
+2. Exploring the dataset - early AD data with feature value of l handwriting
+3. Data processing
+	- Pandas Dataframe 
+	- keras dataframe
+4. Visualization using seaborn & matplotlib
+	- Correlation Matrix
+	- Plot Features for Cost of Living histogram
+5. Label Encoding
+	- Encoding the Object data to Int
+6. Feature Selection
+	- Pandas Dataframe using iloc
+7. Building the model
+	- Support Vector Machine - SVM
+	- Random Forest
+	- Decision Tree
+	- ANN - MLP
+	- Voting Classifier (SVM + DT + RF)
+	- CNN
+	- CNN + LSTM
+	- BiLSTM
+	- RC based RNN
+	- Kmediods
+8. Training the model
+9. Building the model with Random Forest Classifier since it gives better accuracy comparing with Other Models 
+10. Flask Framework with Sqlite for signup and signin
+11. Importing the packages
+12. User gives input as Feature Values 
+13. The given input is preprocessed for prediction
+14. Trained model is used for prediction
+15. Final outcome is displayed through frontend
+
+Extension
+----------
+
+In the base paper, the author mentioned few Machine and Deep Learning models (ANN,RC-NN,Kmediods,BiLSTM),in which RC got 85%, 
+As an extension we have applied SVM,RF,DT, Voting Classifier and CNN + LSTM, in which Voting Classifier and Random Forest got 87% and 88% 
+So with the Random Forest Classifier we build the model used for predicting the result.
